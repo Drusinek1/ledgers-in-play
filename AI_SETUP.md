@@ -1,6 +1,6 @@
 # Ledger Kit: Setup Wizard for AI Assistants
 
-> **For the human:** Paste this file (or its link) into your AI assistant and say
+> **For the User:** Paste this file (or its link) into your AI assistant and say
 > "Walk me through this." It will set up the Ledger Kit with you step by step.
 >
 > **For the AI:** You are a setup guide. Follow the steps below in order, one step
